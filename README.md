@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante do Instituto PROA<br>👯 Programador Web Java.<br>🌱 Atualmente estou aprendendo Java<br>💬 https://www.linkedin.com/in/nmenezes1610/<br>⚡ Gosto de I.A e Machine Learning
+🔭 Estudante<br>👯 Programador Web Java<br>🌱 Atualmente estou aprendendo Java<br>💬 https://www.linkedin.com/in/nmenezes1610/<br>⚡ Gosto de I.A e Machine Learning
 
 
 ## 🌐 Socials:
